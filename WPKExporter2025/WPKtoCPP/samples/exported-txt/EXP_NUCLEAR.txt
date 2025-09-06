@@ -1,0 +1,9 @@
+wavepack EXP_NUCLEAR
+{
+	Type 0
+	DisableLevel2 1
+	Level0 1
+	{
+		Wave 90 EXPL\EXP_NUCLEAR.wav
+	}
+}
