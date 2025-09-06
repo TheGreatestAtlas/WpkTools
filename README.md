@@ -9,18 +9,18 @@ WpkExporter różni się tym, że wprowadza obsługę innych wersji .wpk z innyc
 WpkImporter natomiast jest następcą programu Wpconvert.exe stworzonego przez Reality Pump dołączanego do Earth 2160 sdk. 
 WpkImporter został został napisany w taki sposób by naśladował zachowanie Wpconvert jednak dodaje nową funckję kompilacji plików cpp.
 
-Programy obsługują pliki .wpk z następujących gier:
--> Earth 2150: Escape from the Blue Planet,
--> Earth 2150: The Moon Project,
--> Earth 2150: Lost Souls,
--> Heli Heroes,
--> World War II: Panzer Claws/Frontline Attack: War Over Europe,
--> World War III: Black Gold,
--> KnightShift/Polanie 2/Once Upon a Knight,
--> KnightShift II Curse of Souls/Polanie 3,
--> Earth 2160,
+Programy obsługują pliki .wpk z następujących gier:<br>
+-> Earth 2150: Escape from the Blue Planet,<br>
+-> Earth 2150: The Moon Project,<br>
+-> Earth 2150: Lost Souls,<br>
+-> Heli Heroes,<br>
+-> World War II: Panzer Claws/Frontline Attack: War Over Europe,<br>
+-> World War III: Black Gold,<br>
+-> KnightShift/Polanie 2/Once Upon a Knight,<br>
+-> KnightShift II Curse of Souls/Polanie 3,<br>
+-> Earth 2160,<br>
 
-WpkImporter i WpkExporter zostały napisane w 100% przez Atlasa.
+WpkImporter i WpkExporter zostały napisane w 100% przez Atlasa.<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,15 +32,15 @@ WpkExporter differs in that it supports other versions of .wpk from other Realit
 WpkImporter, on the other hand, is the successor to Wpconvert.exe, created by Reality Pump and included with the Earth 2160 SDK. 
 WpkImporter was written to mimic the behavior of Wpconvert, but adds a new function for compiling cpp files.
 
-The programs supports .wpk files from the following games:
--> Earth 2150: Escape from the Blue Planet,
--> Earth 2150: The Moon Project,
--> Earth 2150: Lost Souls,
--> Heli Heroes,
--> World War II: Panzer Claws/Frontline Attack: War Over Europe,
--> World War III: Black Gold,
--> KnightShift/Polanie 2/Once Upon a Knight,
--> KnightShift II Curse of Souls/Polanie 3,
--> Earth 2160,
+The programs supports .wpk files from the following games:<br>
+-> Earth 2150: Escape from the Blue Planet,<br>
+-> Earth 2150: The Moon Project,<br>
+-> Earth 2150: Lost Souls,<br>
+-> Heli Heroes,<br>
+-> World War II: Panzer Claws/Frontline Attack: War Over Europe,<br>
+-> World War III: Black Gold,<br>
+-> KnightShift/Polanie 2/Once Upon a Knight,<br>
+-> KnightShift II Curse of Souls/Polanie 3,<br>
+-> Earth 2160,<br>
 
 WpkImporter and WpkExporter were written entirely by Atlas.
