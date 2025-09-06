@@ -7,7 +7,7 @@ Programy w tej paczce służą do dekompilacji i kompilacji plików .wpk. WpkExp
 WpkExporter różni się tym, że wprowadza obsługę innych wersji .wpk z innych gier studia Reality Pump. Program umożliwia również eskport do formatu .cpp.
 
 WpkImporter natomiast jest następcą programu Wpconvert.exe stworzonego przez Reality Pump dołączanego do Earth 2160 sdk. 
-WpkImporter został został napisany w taki sposób by naśladował zachowanie Wpconvert jednak dodaje nową funckję kompilacji plików cpp.
+WpkImporter został napisany w taki sposób by naśladował zachowanie Wpconvert jednak dodaje nową funckję kompilacji plików cpp.
 
 Programy obsługują pliki .wpk z następujących gier:<br>
 -> Earth 2150: Escape from the Blue Planet,<br>
